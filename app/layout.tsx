@@ -7,18 +7,18 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "GamingX",
-    template: "%s | chronark.com",
+    template: "GamingX",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "GamingX - A dynamic game company publishing a variety of challenging and smart games that test skills, strategy, and creativity. Experience the thrill of engaging gameplay with GamingX!",
   openGraph: {
-    title: "chronark.com",
+    title: "GamingX",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+      "GamingX - A dynamic game company publishing a variety of challenging and smart games that test skills, strategy, and creativity. Experience the thrill of engaging gameplay with GamingX!",
+    url: "https://gamingx.games/",
+    siteName: "gamingx.games",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "https://gamingx.games/favicon.png",
         width: 1920,
         height: 1080,
       },
